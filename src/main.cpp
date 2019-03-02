@@ -3,7 +3,7 @@
 #include <opencv2/opencv.hpp>
 
 /****************************************************/
-#include "Demosaicing.hpp"
+#include "BasicDemosaicing.hpp"
 using namespace std;
 
 

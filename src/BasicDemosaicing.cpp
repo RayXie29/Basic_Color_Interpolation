@@ -1,4 +1,4 @@
-#include "Demosaicing.hpp"
+#include "BasicDemosaicing.hpp"
 #include <opencv2/opencv.hpp>
 
 
